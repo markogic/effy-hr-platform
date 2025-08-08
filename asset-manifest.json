@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/effy-hr-platform/static/css/main.11b5eaf7.css",
-    "main.js": "/effy-hr-platform/static/js/main.2e5ac09f.js",
+    "main.js": "/effy-hr-platform/static/js/main.8c684229.js",
     "static/js/453.14851fb1.chunk.js": "/effy-hr-platform/static/js/453.14851fb1.chunk.js",
     "static/media/approved-badge-suspended.png": "/effy-hr-platform/static/media/approved-badge-suspended.162413e595acd014bac1.png",
     "static/media/approved-badge-rejected.png": "/effy-hr-platform/static/media/approved-badge-rejected.a94e74b1b3a7eb76f1f1.png",
@@ -13,11 +13,11 @@
     "static/media/loader.svg": "/effy-hr-platform/static/media/loader.432b6bb9f7b4b02143119873bf7b4c5c.svg",
     "index.html": "/effy-hr-platform/index.html",
     "main.11b5eaf7.css.map": "/effy-hr-platform/static/css/main.11b5eaf7.css.map",
-    "main.2e5ac09f.js.map": "/effy-hr-platform/static/js/main.2e5ac09f.js.map",
+    "main.8c684229.js.map": "/effy-hr-platform/static/js/main.8c684229.js.map",
     "453.14851fb1.chunk.js.map": "/effy-hr-platform/static/js/453.14851fb1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11b5eaf7.css",
-    "static/js/main.2e5ac09f.js"
+    "static/js/main.8c684229.js"
   ]
 }
