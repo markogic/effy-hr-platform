@@ -1,45 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
   <meta charset="utf-8" />
-  <title>Redirecting...</title>
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="Effy HR Platform" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <title>Effy HR Platform</title>
+
+  <!-- GitHub Pages SPA redirect script -->
   <script type="text/javascript">
     // Single Page Apps for GitHub Pages
     // MIT License
     // https://github.com/rafgraph/spa-github-pages
-
-    // This script takes the current url and converts the path and query
-    // string into just a query string, and then redirects the browser
-    // to the new url with only a query string and hash fragment,
-    // e.g. https://www.foo.tld/one/two?a=b&c=d#qwe becomes
-    // https://www.foo.tld/?/one/two&a=b~and~c=d#qwe
-
     var pathSegmentsToKeep = 1;
 
     var l = window.location;
     l.replace(
-      l.protocol +
-      "//" +
-      l.hostname +
-      (l.port ? ":" + l.port : "") +
-      l.pathname
-      .split("/")
-      .slice(0, 1 + pathSegmentsToKeep)
-      .join("/") +
-      "/?/" +
-      l.pathname
-      .slice(1)
-      .split("/")
-      .slice(pathSegmentsToKeep)
-      .join("/")
-      .replace(/&/g, "~and~") +
-      (l.search ? "&" + l.search.slice(1).replace(/&/g, "~and~") : "") +
+      l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+      l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/?/' +
+      l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
+      (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
       l.hash
     );
   </script>
 </head>
 
-<body></body>
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+</body>
 
 </html>
