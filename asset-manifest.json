@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11b5eaf7.css",
+    "main.js": "/static/js/main.43a8e7cd.js",
+    "static/js/453.a810808b.chunk.js": "/static/js/453.a810808b.chunk.js",
+    "static/media/approved-badge-suspended.png": "/static/media/approved-badge-suspended.162413e595acd014bac1.png",
+    "static/media/approved-badge-rejected.png": "/static/media/approved-badge-rejected.a94e74b1b3a7eb76f1f1.png",
+    "static/media/approved-badge-pending.png": "/static/media/approved-badge-pending.23114449ddd722727d49.png",
+    "static/media/approved-badge-approved.png": "/static/media/approved-badge-approved.c03a4e0d355ee1fe4cfa.png",
+    "static/media/logo.jpeg": "/static/media/logo.50296e2d615e8de1772a.jpeg",
+    "static/media/passport-preview.webp": "/static/media/passport-preview.2889b5a78ec0606ae132.webp",
+    "static/media/manatal_logo.svg": "/static/media/manatal_logo.30ebc1b0fe345f12eb3341c8772d5e14.svg",
+    "static/media/loader.svg": "/static/media/loader.432b6bb9f7b4b02143119873bf7b4c5c.svg",
+    "index.html": "/index.html",
+    "main.11b5eaf7.css.map": "/static/css/main.11b5eaf7.css.map",
+    "main.43a8e7cd.js.map": "/static/js/main.43a8e7cd.js.map",
+    "453.a810808b.chunk.js.map": "/static/js/453.a810808b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b5eaf7.css",
+    "static/js/main.43a8e7cd.js"
+  ]
+}
