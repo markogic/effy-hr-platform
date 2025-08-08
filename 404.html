@@ -1,34 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-  <meta charset="utf-8" />
-  <link rel="icon" href="/effy-hr-platform/favicon.ico" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="theme-color" content="#000000" />
-  <meta name="description" content="Effy HR Platform" />
-  <link rel="apple-touch-icon" href="/effy-hr-platform/logo192.png" />
-  <link rel="manifest" href="/effy-hr-platform/manifest.json" />
-  <title>Effy HR Platform</title>
-
-  <!-- GitHub Pages SPA redirect script -->
-  <script type="text/javascript">
-    // Store the current path and redirect to index with path as parameter
-    var currentPath = window.location.pathname.replace('/effy-hr-platform', '');
-    var search = window.location.search;
-    var hash = window.location.hash;
-
-    // Don't redirect if we're already at the base or login
-    if (currentPath !== '/' && currentPath !== '/login') {
-      var redirectPath = '/effy-hr-platform/?p=' + encodeURIComponent(currentPath + search + hash);
-      window.location.replace(redirectPath);
-    }
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    // GitHub Pages SPA redirect
+    var path = window.location.pathname.slice(1);
+    var redirect = '/effy-hr-platform/?/' + path.replace(/^effy-hr-platform/, '');
+    window.location.replace(redirect);
   </script>
 </head>
 
 <body>
-  <noscript>You need to enable JavaScript to run this app.</noscript>
-  <div id="root"></div>
 </body>
 
 </html>
