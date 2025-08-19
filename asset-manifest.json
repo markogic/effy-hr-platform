@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/effy-hr-platform/static/css/main.cc986c7e.css",
-    "main.js": "/effy-hr-platform/static/js/main.f112036b.js",
+    "main.css": "/effy-hr-platform/static/css/main.ee21c6b8.css",
+    "main.js": "/effy-hr-platform/static/js/main.ace4885c.js",
     "static/js/453.14851fb1.chunk.js": "/effy-hr-platform/static/js/453.14851fb1.chunk.js",
+    "static/media/18_crew_member_handbook.pdf": "/effy-hr-platform/static/media/18_crew_member_handbook.ea47b6f97efb0116e4eb.pdf",
+    "static/media/2_application_for_employment.pdf": "/effy-hr-platform/static/media/2_application_for_employment.b34081fe03e0f3a678bf.pdf",
+    "static/media/11_receipt_welcome_aboard_crew_guide_book.pdf": "/effy-hr-platform/static/media/11_receipt_welcome_aboard_crew_guide_book.744853124a3f4901f72c.pdf",
     "static/media/approved-badge-suspended.png": "/effy-hr-platform/static/media/approved-badge-suspended.162413e595acd014bac1.png",
     "static/media/approved-badge-rejected.png": "/effy-hr-platform/static/media/approved-badge-rejected.a94e74b1b3a7eb76f1f1.png",
     "static/media/approved-badge-pending.png": "/effy-hr-platform/static/media/approved-badge-pending.23114449ddd722727d49.png",
     "static/media/approved-badge-approved.png": "/effy-hr-platform/static/media/approved-badge-approved.c03a4e0d355ee1fe4cfa.png",
+    "static/media/1_msc_Introduction_packet.pdf": "/effy-hr-platform/static/media/1_msc_Introduction_packet.23181a769d2100b40c50.pdf",
+    "static/media/9_msc_jewelry_inventory_procedures.pdf": "/effy-hr-platform/static/media/9_msc_jewelry_inventory_procedures.9a1fa21aed35915111d2.pdf",
+    "static/media/17_social_media_policy.pdf": "/effy-hr-platform/static/media/17_social_media_policy.6c88f38d5266ad1d5ae0.pdf",
+    "static/media/16_crew_conduct_policy.pdf": "/effy-hr-platform/static/media/16_crew_conduct_policy.66703f7c11ae06a8afc5.pdf",
+    "static/media/10_msc_personal_information_form.pdf": "/effy-hr-platform/static/media/10_msc_personal_information_form.4fa4d85e215f9e83a515.pdf",
+    "static/media/19_medical_consent_form_for_release_to_emergency_contact.pdf": "/effy-hr-platform/static/media/19_medical_consent_form_for_release_to_emergency_contact.d2319efaafa1a726542d.pdf",
     "static/media/logo.jpeg": "/effy-hr-platform/static/media/logo.50296e2d615e8de1772a.jpeg",
     "static/media/passport-preview.webp": "/effy-hr-platform/static/media/passport-preview.2889b5a78ec0606ae132.webp",
     "static/media/manatal_logo.svg": "/effy-hr-platform/static/media/manatal_logo.30ebc1b0fe345f12eb3341c8772d5e14.svg",
     "static/media/loader.svg": "/effy-hr-platform/static/media/loader.432b6bb9f7b4b02143119873bf7b4c5c.svg",
     "index.html": "/effy-hr-platform/index.html",
-    "main.cc986c7e.css.map": "/effy-hr-platform/static/css/main.cc986c7e.css.map",
-    "main.f112036b.js.map": "/effy-hr-platform/static/js/main.f112036b.js.map",
+    "main.ee21c6b8.css.map": "/effy-hr-platform/static/css/main.ee21c6b8.css.map",
+    "main.ace4885c.js.map": "/effy-hr-platform/static/js/main.ace4885c.js.map",
     "453.14851fb1.chunk.js.map": "/effy-hr-platform/static/js/453.14851fb1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc986c7e.css",
-    "static/js/main.f112036b.js"
+    "static/css/main.ee21c6b8.css",
+    "static/js/main.ace4885c.js"
   ]
 }
